@@ -1,6 +1,6 @@
 # Bibliothèque Personelle | Personal Library
 
-## Description :
+## Description `Fr`:
 
 Ceci est une bibliothèque personnelle, elle regroupe tous les petits programmes fait durant ma scolarité (en NSI*) ainsi que quelques programmes basiques.
 Tout est 100% fait par ma part, sans aide autre que la documentation ou de fiche de cours ou encore les professeurs.
@@ -9,7 +9,7 @@ Tout est 100% fait par ma part, sans aide autre que la documentation ou de fiche
 
 ---
 
-## Description :
+## Description `En`:
 This is a personal library, it brings together all the small programs done during my schooling (in NSI *) as well as some basic programs.
 Everything is 100% done by me, without any help other than the documentation or course sheet or the teachers.
 

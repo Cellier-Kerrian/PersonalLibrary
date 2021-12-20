@@ -16,7 +16,7 @@ Everything is 100% done by me, without any help other than the documentation or 
 
 ---
 
-Si vous voulez me contacter | If you want to contact me:
+Si vous voulez me contacter | If you want to contact me :
 - Twitter - [@Cellier_Kerrian](https://twitter.com/Cellier_Kerrian)
 - Mail - `cellier.kerrian@gmail.com`
 - Discord - `Cellier Kerrian#9197`

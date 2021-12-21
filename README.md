@@ -1,4 +1,4 @@
-# Bibliothèque Personelle | Personal Library
+# Bibliothèque Personnelle | Personal Library
 
 ## Description :
 

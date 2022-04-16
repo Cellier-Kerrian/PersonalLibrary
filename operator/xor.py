@@ -18,6 +18,4 @@ def _xor(a, b):
         XOR.
 
     '''
-    if a == b:
-        return True
-    return False
+    return bool((a and not b) or (not a and b))
